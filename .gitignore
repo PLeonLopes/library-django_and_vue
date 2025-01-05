@@ -3,3 +3,9 @@
 
 # vscode
 .vscode/
+
+# Django pycache
+__pycache__/
+
+# sqlite3 DB
+db.sqlite3
